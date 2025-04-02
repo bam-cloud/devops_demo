@@ -51,4 +51,4 @@ jobs:
           push: true
           tags: |
             bam96/devops_demo:latest
-            bam96/devops_demo:${{ github.sha }}  # Adds commit SHA for better tracking
+    
